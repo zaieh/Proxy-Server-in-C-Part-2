@@ -1,0 +1,594 @@
+HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJMT
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Content-Type: text/html
+Age: 0
+Transfer-Encoding: chunked
+Connection: keep-alive
+Server: ATS/5.3.0
+
+fbc
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"/>
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<title>NeatClean Maids - House Cleaning Services Dallas Texas</title>
+<meta name="description" content= "Professionally trained, the NeatClean Maids are dedicated to keeping your home sparkling clean. We are aware that tiHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJme is a priceless commodity in today's hectic world, and it is why we are here to assist you!" />
+
+
+<link rel="SHORTCUT ICON" href="favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" href="styles/styles.css"/>
+<link rel="stylesheet" href="styles/normalize.css"/>
+<link rel="stylesheet" href="styles/responsive.css"/>
+<!--[if lt IE 9]>
+    <script src="scripts/html5shiv.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="scripts/jquery.min.js"></script>
+<script type="text/javascript">
+		$(function() {
+			var pull 		= $('#pull');
+				menu 		= $('nav.header-nav ul');
+				menuHeight	= menu.height();
+
+			$(pull).on('click', function(e) {
+				e.preventDefault();
+				menu.slideToggle();
+			});
+
+			$(window).resize(function() {
+				if($(window).width() > 800) $('nav.header-nav ul').removeAttr('style');
+			});
+		});
+</script>
+
+<!--fonts -->
+<link href='http://fonts.googleapis.com/css?family=Alegreya:400,400italic,700' rel='stylesheet' type='text/css'>
+
+<!-- owl carouseHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJl -->
+<link href="styles/owl.carousel.css" rel="stylesheet">
+<link href="styles/owl.theme.css" rel="stylesheet">
+<script src="scripts/owl.carousel.js"></script>
+ <script>
+    $(document).ready(function() {
+      $("#owl-demo").owlCarousel({
+        autoPlay: 3000,
+        items : 4,
+        itemsDesktop : [1199,3],
+        itemsDesktopSmall : [979,3],
+		navigation : true,
+        navigationText : ["<", ">"],
+		pagination : false
+      });
+    });
+    </script>
+
+<!-- fancybox -->
+<link rel="stylesheet" type="text/css" href="styles/jquery.fancybox-1.3.1.css" media="screen" />
+<script type="text/javascript" src="scripts/jquery.mousewheel-3.0.2.pack.js"></script>
+<script type="text/javascript" src="scripts/jquery.fancybox-1.3.1.js"></script>
+<script type="text/javascript" src="scripts/fancybox.js"></script>
+    
+<!-- revolution slider -->
+<link rel="stylesheet" href="styles/settings.css" />
+<link rel="stylesheet" href="styles/settings-ie8.css" />
+<link rel="stylesheet" href="styles/revsHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJlider.css" />
+<script type="text/javascript" src="scripts/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="scripts/jquery.themepunch.plugins.min.js"></script>
+<script type="text/javascript" src="scripts/revslider.js"></script>    
+    
+</head>
+
+<body>
+<!-- header -->
+	    <div style="position:absolute;"></div>
+
+	<div id="hd-wrapper">
+        <header>
+        	<div class="container">
+                <a href="index.php" class="hd-logo"><img src="images/neatcleanmaids_logo2.png" alt=""/></a>
+                <div class="header-right">
+                    <p>
+                        Follow us on
+                        <a href="#" target="_blank"><img src="images/sm1.png" alt="" class="animate"/></a>
+                        <a href="#" target="_blank"><img src="images/sm2.png" alt="" class="animate"/></a>
+                        <a href="#" target="_blank"><img src="images/sm3.png" alt="" class="animate"/></a>
+                    </p>
+                    <p>HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ
+                        Contact Us Today
+                        <a href="tel:972.682.0026">
+                            <img src="images/call-icon.png" alt=""/>
+                            972.682.0026 
+                        </a>
+                    </p>
+1000
+
+                </div>
+                <br class="clear"/>
+            </div>
+            <div class="nav-wrapper">
+                <nav class="clrfix container header-nav">
+                 <a href="#" id="pull">View Menu</a>
+                    <ul class="clrfix">
+                        <li  class="active-menu"><a href="index.php" class="animate">Home</a></li>
+                        <li ><a href="about.php" class="animate">About Us</a></li>
+                        <li ><a href="services.php" class="animate">Services</a></li>
+                        <li ><a href="faq.php" class="animate">FAQs</a></li>
+                        <li ><a href="testimonials.php" class="animate">Testimonials</a></li>
+                        <li ><a hHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJref="contact.php" class="animate">Contact Us</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+    </div>    
+    <div id="banner">
+    	<div id="full-slider-wrapper">
+        	<div class="tp-banner-container">
+				<div class="tp-banner" >
+                    <ul>
+          
+                        <!-- SLIDE  -->
+                        <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" >
+                            <!-- MAIN IMAGE -->
+                            <img src="images/slider/slide1.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+                            <!-- LAYERS -->
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-250"
+                                data-y="top" data-voffset="120"
+                                data-customin=HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ"x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="2000"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                    <img src="images/slider/img.png" alt=""/>
+                            </div>
+          
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption customin customout"
+                                data-x="rigHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJht" data-hoffset="-50"
+                                data-y="center" data-voffset="-85"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="2400"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                    <strong>Is a Clean Home All</strong>
+                            </div>
+          
+                            <!--HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ LAYER NR. 4 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right"	data-hoffset="-180"
+                                data-y="center" data-voffset="-20"
+                                data-customin
+6a0
+="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="3000"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+             HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ                       <strong>You Need?</strong>
+                            </div>
+          
+                            <!-- LAYER NR. 5 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-130"
+                                data-y="center" data-voffset="30"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="3300"
+                                data-easing="Power4.easeOut"
+                                data-endspe
+1000
+ed="500"
+                                data-endeasing="Power4.eHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJaseIn"
+                                data-captionhidden="on"
+                                style="z-index: 2;">
+                                    <p>RELAX. WE ARE HERE TO MAKE IT HAPPEN...</p>
+                            </div>
+          
+                            <!-- LAYER NR. 6 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right"	data-hoffset="-190"
+                                data-y="center" data-voffset="95"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="500"
+                                data-start="3800"
+                            HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ    data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                <a href="contact.php" class="button-violet">GET A FREE ESTIMATE TODAY</a>
+                            </div>
+                        </li>
+                        <!-- End Slide -->
+                        <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" >
+                            <!-- MAIN IMAGE -->
+                            <img src="images/slider/slide2.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+                            <!-- LAYERS -->
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-250"
+      HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ                          data-y="top" data-voffset="120"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="2000"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                           <!-- LAYERS -->
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-250"
+      HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ                style="z-index: 2">
+                                    <img src="images/slider/img.png" alt=""/>
+                            </div>
+          
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-50"
+                                data-y="center" data-voffset="-90"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="2400"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                styl
+6a0
+e="z-index: 2">
+                                    <strong>Is a Clean Home All</strong>
+                            </div>
+          
+                            <!-- LAYER NR. 4 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right"	data-hoffset="-180"
+                                data-y="center" data-voffset="-20"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                        HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ        data-start="3000"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                    <strong>You Need?</strong>
+                            </div>
+          
+                            <!-- LAYER NR. 5 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-130"
+                                data-y="center" data-voffset="30"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPers
+1000
+pective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacitHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJy:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="3300"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2;">
+                                    <p>RELAX. WE ARE HERE TO MAKE IT HAPPEN...</p>
+                            </div>
+          
+                            <!-- LAYER NR. 6 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right"	data-hoffset="-190"
+                                data-y="center" data-voffset="95"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="500"
+                                data-start="3800"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                <a href="contact.php" class="button-violet">GET A FREE ESTIMATE TODAY</a>
+                            </div>
+                        </li>
+						<!-- End Slide -->
+                        <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" >
+                            <!-- MAIN IMAGE -->
+                            <img src="images/slider/slide3.jpg"  alt="slidebg1"  data-bHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+                            <!-- LAYERS -->
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-250"
+                                data-y="top" data-voffset="120"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="2000"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="PoHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJwer4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                    <img src="images/slider/img.png" alt=""/>
+                            </div>
+          
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-50"
+                                data-y="center" data-voffset="-90"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;tr
+6a0
+ansformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="2400"
+                    HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ            data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                    <strong>Is a Clean Home All</strong>
+                            </div>
+          
+                            <!-- LAYER NR. 4 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right"	data-hoffset="-180"
+                                data-y="center" data-voffset="-20"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOriginHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ:50% 50%;"
+                                data-speed="1000"
+                                data-start="3000"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                    <strong>You Need?</strong>
+                            </div
+1000
+>
+          
+                            <!-- LAYER NR. 5 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-130"
+                                data-y="center" data-voffset="30"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="3300"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2;">
+                                    <p>RELAX. WE ARE HERE TO MAKE IT HAPPEN...</p>
+                            </div>
+          
+                            <!-- LAYER NR. 6 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right"	data-hoffset="-190"
+                                data-y="center" data-voffset="95"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="500"
+                                data-start="3800"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                <a href="contact.php" class="button-violet">GET A FREE ESTIMATE TODAY</a>
+                            </div>
+                        </li>
+						<!-- End Slide -->
+                        <li data-transition="fade" data-slotamount="7" data-masterspeed="1000" >
+                            <!-- MAIN IMAGE -->
+HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ                            <img src="images/slider/slide4.jpg"  alt="slidebg1"  data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+                            <!-- LAYERS -->
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-250"
+                                data-y="top" data-voffset="120"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="2000"
+                                data-easing="Power4.easeOut"
+                HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                    <img src="images/slider/img.png" alt=""/>
+                            </div>
+          
+                            <!-- LAYER NR. 3 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" d
+6a0
+ata-hoffset="-50"
+                                data-y="center" data-voffset="-90"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                datHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJa-speed="1000"
+                                data-start="2400"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                    <strong>Is a Clean Home All</strong>
+                            </div>
+          
+                            <!-- LAYER NR. 4 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right"	data-hoffset="-180"
+                                data-y="center" data-voffset="-20"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+             
+1000
+                   data-start="3000"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                    <strong>You Need?</strong>
+                            </div>
+          
+                            <!-- LAYER NR. 5 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right" data-hoffset="-130"
+                                data-y="center" data-voffset="30"
+                                data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspectiHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJve:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="1000"
+                                data-start="3300"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2;">
+                                    <p>RELAX. WE ARE HERE TO MAKE IT HAPPEN...</p>
+                            </div>
+          
+                            <!-- LAYER NR. 6 -->
+                            <div class="tp-caption customin customout"
+                                data-x="right"	data-hoffset="-190"
+                                data-y="center" data-voffset="95"
+             HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ                   data-customin="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:1;scaleY:1;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:0% 0%;"
+                                data-customout="x:0;y:0;z:0;rotationX:0;rotationY:0;rotationZ:0;scaleX:0.75;scaleY:0.75;skewX:0;skewY:0;opacity:0;transformPerspective:600;transformOrigin:50% 50%;"
+                                data-speed="500"
+                                data-start="3800"
+                                data-easing="Power4.easeOut"
+                                data-endspeed="500"
+                                data-endeasing="Power4.easeIn"
+                                data-captionhidden="on"
+                                style="z-index: 2">
+                                <a href="contact.php" class="button-violet">GET A FREE ESTIMATE TODAY</a>
+                            </div>
+                        </li>
+                    </ul>
+				</div>
+			</div>
+		</div><!-- End Slider Wrapper -->HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ
+    </div>    
+    <!-- main -->
+    <div id="main" class="clearfix">
+    	<div id="content" class="container">
+        	<article>
+            	<h1>Relax...now is the time to enjoy your clean home!</h1>
+                <h3>Nothing compares to the carefree ease of knowing that your home will be professionally well taken care of with each visit, as our primary goal focuses on giving our valued customers leading high quality cleaning services.</h3>
+                <div class="hr1"></div>
+				<div class="videoWrapper video1">
+					<iframe width="560" height="349" src="http://www.youtube.com/embed/36cy3lwRlGk" frameborder="0" allowfullscreen></iframe>
+				</div>
+                <p>Professionally trained, the <strong>NeatClean Maids</strong> are dedicated to keeping your home sparkling clean. We are aware that time is a priceless commodity in today's hectic world, and it is why we are here to assist you!</p>
+                <p>Screened, bonded, professionally trained employees, $1,000,000 General LiabiHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJlity Insurance Policy, member of Association Residential Cleaning Service International (ARCSI) and Cleaning for a Reason the <strong>NeatClean Maids</strong> supply all c
+b57
+leaning equipment, tools and supplies. Quality control procedures. All this and guaranteed pristine-clean home at a competitive price. </p>
+            	<br>
+                <a href="#" class="button-violet">GET A FREE ESTIMATE TODAY</a>
+                <p><span>We accept the following cards</span></p>
+                <img src="images/cards.png" alt=""/>
+            </article>
+        </div>
+        <br class="clear"/>
+    </div>
+         <div id="membership">
+    	<div class="container">
+            <strong>Our Memberships and Association</strong>
+            <div class="hr1"></div>
+            <div>
+                <a href="#" target="_blank"><img src="images/logo1.png" alt="" class="scale"/></a>
+                <a href="#" target="_blank"><img src="images/logo2.png" alt="" class="scale"/></a>
+            </div>
+   HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ     </div>
+    </div>
+    <div id="serving">
+    	<div class="container">
+        	<strong>Proudly Serving: </strong>
+            <p>Dallas, Lavon, Richardson, Mesquite, Sunnyvale, Heath, Garland, Rowlett, Rockwall, Fate, Royse City,  Carrollton,  White Rock & Lakewood area  and all  surrounding areas.</p>
+   		</div>
+    </div>        <div id="footer-wrapper">
+        <footer>
+             <div class="nav-wrapper">
+                    <nav class="clrfix container">
+                     <a href="#" id="pull" class="fade"></a>
+                        <ul class="clrfix">
+                            <li  class="active-menu"><a href="index.php" class="animate">Home</a></li>
+                            <li ><a href="about.php" class="animate">About Us</a></li>
+                            <li ><a href="serbices.php" class="animate">Services</a></li>
+                            <li ><a href="faq.php" class="animate">FAQs</a></li>
+                            <li ><a href="testimonials.php" class="anHTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJimate">Testimonials</a></li>
+                            <li ><a href="contact.php" class="animate">Contact Us</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="container">
+                	<br>
+                    <p>NeatClean Maids | 15330 LBJ Frwy, Ste. 202 Mesquite, TX 75150 | ph: 972-682-0026 | <a href="mailto:info@neatcleanmaids.com">info@neatcleanmaids.com</a></p>
+                    <p>All Rights Reserved. Copyright © 2014. www.neatcleanmaids.com</p>
+                </div>
+        </footer>
+    </div>    
+</body>
+</html>
+<script type="text/javascript">(function (d, w) {var x = d.getElementsByTagName('SCRIPT')[0];var f = function () {var s = d.createElement('SCRIPT');s.type = 'text/javascript';s.async = true;s.src = "//np.lexity.com/embed/YW/8618cbf918809b3b4e579c7055e0cf74?id=eaa4085c1bb0";x.parentNode.insertBefore(s, x);};w.attachEvent ? w.attachEvent('onload',f) :w.addEventListener('load',f,false);}(document, window));HTTP/1.1 200 OK
+Date: Thu, 27 Oct 2016 02:10:29 GJ
